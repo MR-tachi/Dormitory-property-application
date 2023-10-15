@@ -1,0 +1,9 @@
+c:\users\acer\documents\visual studio 2017\Projects\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe.config
+c:\users\acer\documents\visual studio 2017\Projects\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe
+c:\users\acer\documents\visual studio 2017\Projects\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.pdb
+c:\users\acer\documents\visual studio 2017\Projects\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csprojResolveAssemblyReference.cache
+c:\users\acer\documents\visual studio 2017\Projects\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Properties.Resources.resources
+c:\users\acer\documents\visual studio 2017\Projects\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.GenerateResource.Cache
+c:\users\acer\documents\visual studio 2017\Projects\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.exe
+c:\users\acer\documents\visual studio 2017\Projects\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.pdb
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.manage.resources
